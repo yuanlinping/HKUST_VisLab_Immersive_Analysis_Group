@@ -94,7 +94,7 @@ address = {street = "HKUST, Clear Water Bay Kowloon, Hong Kong"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {}
+coordinates = {latitude = "22.336", longitude = "114.265"}
 
 # Directions for visitors to locate you.
 directions = ""

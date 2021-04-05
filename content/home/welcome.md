@@ -11,5 +11,5 @@ design:
   text_color: white
 advanced:
   css_style:
-  css_class:
+  css_class: fullscreen
 ---

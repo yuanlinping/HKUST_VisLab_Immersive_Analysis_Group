@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title:
-subtitle:
+title: "ImmersiveVis"
+subtitle: "HKUST VisLab"
 
 design:
   columns: "1"

@@ -10,15 +10,15 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 10
 
-title: "ImmersiveVis"
-subtitle: "HKUST VisLab"
+title: 
+subtitle: 
 
 design:
   columns: "1"
   background:
-    image: coders.jpg
+    image: welcome.jpg
     image_darken: 0
     image_parallax: false
     image_position: center

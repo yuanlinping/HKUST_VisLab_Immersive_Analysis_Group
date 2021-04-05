@@ -2,12 +2,13 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "ImmersiveVis \n HKUST VisLab"
+title: "ImmersiveVis \nHKUST VisLab"
 subtitle: ""
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+  columns: 2,
+  text_color: white
 advanced:
   css_style:
   css_class:

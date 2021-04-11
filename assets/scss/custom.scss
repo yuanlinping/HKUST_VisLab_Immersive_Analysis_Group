@@ -1,0 +1,24 @@
+@keyframes fadeInText {
+  from {
+    transform: translateY(30px);
+    opacity: 0;
+  } to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.hero-lead{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  text-align: center;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); 
+  overflow: hidden;
+}
+
+.h1 .h3 {
+    animation-name: fadeInText;
+}

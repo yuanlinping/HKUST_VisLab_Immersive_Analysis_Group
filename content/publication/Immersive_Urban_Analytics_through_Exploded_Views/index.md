@@ -4,7 +4,7 @@ authors:
   - zhutianchen
   - huaminqu
   - yingcaiwu
-date: "2017"
+date: "2017-10-20"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +20,7 @@ publication_types: ["1"]
 publication: "Workshop Proceedings of IEEE VIS 2017: Immersive Analytics"
 publication_short: ""
 
-abstract: "This paper presents an authoring environment for augmenting static visualizations with virtual content in augmented reality. Augmenting static visualizations can leverage the best of both physical and digital worlds, but its creation currently involves different tools and devices, without any means to explicitly design and debug both static and virtual content simultaneously. To address these issues, we design an environment that seamlessly integrates all steps of a design and deployment workflow through its main features: i) an extension to Vega, ii) a preview, and iii) debug hints that facilitate valid combinations of static and augmented content. We inform our design through a design space with four ways to augment static visualizations. We demonstrate the expressiveness of our tool through examples, including books, posters, projections, wallsized visualizations. A user study shows high user satisfaction of our environment and confirms that participants can create augmented visualizations in an average of 4.63 minutes."
+abstract: "Recent years have witnessed the rapid development and wide adoption of immersive head-mounted devices, such as HTC VIVE, Oculus Rift, and Microsoft HoloLens. These immersive devices have native support for displaying 3D models in an immersive environment. The capability has the potential to significantly extend the methodology of urban visual analytics by providing critical 3D context information and creating a sense of presence. However, 3D city models may cause severe occlusion problems, blocking the path toward enabling immersive urban analytics. This paper presents a novel technique to create an exploded view in immersive environments. The 3D models are firstly exploded and grouped into layers. Then we formulate and solve a nonlinear least squares optimization problem to ensure the visibility, compactness, and alignment of all layers. Different from existing methods, our method is tailored to analyze urban data in immersive environments. We further conduct experiments to compare our method with two different methods and exam our method in various situations based on the HoloLens platform."
 
 # Summary. An optional shortened abstract.
 # summary: 
@@ -32,14 +32,14 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://chenzhutian.org/projects/2020_arposter/paper.pdf
-url_code: https://github.com/PapARVis
+url_pdf: https://groups.inf.ed.ac.uk/vishub/immersiveanalytics/papers/IA_1052-paper.pdf
+# url_code: 
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
-url_video: https://vimeo.com/396008882
+# url_video: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

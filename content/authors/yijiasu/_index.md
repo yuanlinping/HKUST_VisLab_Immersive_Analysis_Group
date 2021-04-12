@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhutian Chen
+title: Yijia Su 
 
 _build:
   render: never
@@ -13,7 +13,7 @@ cascade:
 superuser: false
 
 # Role/position
-role: Ph.D. (UCSD Postdoc)
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -24,11 +24,6 @@ organizations:
 bio: 
 
 interests:
-
-social:
-- icon: home
-  icon_pack: fas
-  link: "https://chenzhutian.org/"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

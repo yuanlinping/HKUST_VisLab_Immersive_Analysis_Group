@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Linping YUAN
+title: Linping Yuan
 
 _build:
   render: never

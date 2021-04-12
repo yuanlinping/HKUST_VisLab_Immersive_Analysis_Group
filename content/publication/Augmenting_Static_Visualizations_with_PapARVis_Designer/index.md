@@ -6,7 +6,7 @@ authors:
   - qianwenwang
   - benjaminbach
   - huaminqu
-date: "2020"
+date: "2020-04-25"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "ACM Conference on Human Factors in Computing Systems (CHI)"
 publication_short: ""
 
 abstract: "This paper presents an authoring environment for augmenting static visualizations with virtual content in augmented reality. Augmenting static visualizations can leverage the best of both physical and digital worlds, but its creation currently involves different tools and devices, without any means to explicitly design and debug both static and virtual content simultaneously. To address these issues, we design an environment that seamlessly integrates all steps of a design and deployment workflow through its main features: i) an extension to Vega, ii) a preview, and iii) debug hints that facilitate valid combinations of static and augmented content. We inform our design through a design space with four ways to augment static visualizations. We demonstrate the expressiveness of our tool through examples, including books, posters, projections, wallsized visualizations. A user study shows high user satisfaction of our environment and confirms that participants can create augmented visualizations in an average of 4.63 minutes."
@@ -28,19 +28,11 @@ abstract: "This paper presents an authoring environment for augmenting static vi
 # summary: 
 
 tags:
-- Source Themes
 featured: false
 
 links:
-# - name: Custom Link
-#   url: http://example.org
 url_pdf: https://chenzhutian.org/projects/2020_arposter/paper.pdf
 url_code: https://github.com/PapARVis
-# url_dataset: '#'
-# url_poster: '#'
-# url_project: ''
-# url_slides: ''
-# url_source: '#'
 url_video: https://vimeo.com/396008882
 
 # Featured image

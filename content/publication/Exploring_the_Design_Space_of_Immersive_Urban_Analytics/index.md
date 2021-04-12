@@ -1,5 +1,5 @@
 ---
-title: "Exploring the design space of immersive urban analytics"
+title: "Exploring the Design Space of Immersive Urban Analytics"
 authors: 
   - zhutianchen
   - yifangwang
@@ -8,7 +8,7 @@ authors:
   - weichen
   - zhigengpan
   - huaminqu
-date: "2017"
+date: "2017-07-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -33,16 +33,7 @@ tags:
 featured: false
 
 links:
-# - name: Custom Link
-#   url: http://example.org
 url_pdf: https://chenzhutian.org/projects/2017_immersiveurbananalytics/paper.pdf
-# url_code: https://github.com/PapARVis
-# url_dataset: '#'
-# url_poster: '#'
-# url_project: ''
-# url_slides: ''
-# url_source: '#'
-# url_video: https://vimeo.com/396008882
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

@@ -17,7 +17,7 @@ design:
   spacing:
     padding: ["0px", "0", "0px", "0"]
 advanced:
-  css_style: "height:50%"
+  css_style: "height:70%"
   css_class: "custom"
 ---
 

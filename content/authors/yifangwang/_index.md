@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhutian Chen
+title: Yifang Wang
 
 _build:
   render: never
@@ -13,7 +13,7 @@ cascade:
 superuser: false
 
 # Role/position
-role: Ph.D. (UCSD Postdoc)
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +28,7 @@ interests:
 social:
 - icon: home
   icon_pack: fas
-  link: "https://chenzhutian.org/"
+  link: "http://wangyifang.top/about/"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -39,6 +39,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Students
 - Team Members
 ---

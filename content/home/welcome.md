@@ -9,16 +9,14 @@ design:
   columns: "2"
   background:
     image: welcome.jpg
-    image_darken: 0.6
+    image_darken: 1
     image_parallax: false
     image_position: center
-    image_size: cover
+    image_size: contain
     text_color_light: true
   spacing:
     padding: ["0px", "0", "0px", "0"]
 advanced:
-  css_style: "height:70%"
+  css_style: "height:100%"
   css_class: "custom"
 ---
-# HKUST VisLab
-### Bring Augmented Reality and Virtual Reality to Real Life

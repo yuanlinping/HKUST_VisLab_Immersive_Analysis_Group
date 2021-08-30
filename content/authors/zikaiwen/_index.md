@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Zikai Alex Wen
-
 _build:
   render: never
 cascade:
@@ -28,7 +27,7 @@ interests:
 social:
 - icon: home
   icon_pack: fas
-  link: "http://www.cs.cornell.edu/~zkwen/"
+  link: "https://www.zkwen.info/"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -39,7 +38,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Members
+- Faculty
+# - Members
 # - Alumni
 # - Team Members
 ---

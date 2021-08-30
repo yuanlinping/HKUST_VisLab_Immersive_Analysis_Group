@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zikai Wen
+title: Zikai Alex Wen
 
 _build:
   render: never

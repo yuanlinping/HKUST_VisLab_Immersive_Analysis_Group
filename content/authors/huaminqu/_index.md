@@ -13,7 +13,7 @@ cascade:
 superuser: false
 
 # Role/position
-role: Professor
+role: Chair Professor
 
 # Organizations/Affiliations
 organizations:

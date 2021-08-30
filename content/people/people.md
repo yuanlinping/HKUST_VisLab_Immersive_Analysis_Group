@@ -18,7 +18,7 @@ content:
   user_groups:
   - Faculty
   - Students
-  - Members
+  #- Members
   - Alumni
   # - Team Members
 design:

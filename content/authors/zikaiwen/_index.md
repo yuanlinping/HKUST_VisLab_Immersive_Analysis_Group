@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wai Tong
+title: Zikai Alex Wen
 
 _build:
   render: never
@@ -13,7 +13,7 @@ cascade:
 superuser: false
 
 # Role/position
-role: Ph.D. Candidate
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +28,7 @@ interests:
 social:
 - icon: home
   icon_pack: fas
-  link: "http://home.cse.ust.hk/~wtong/"
+  link: "http://www.cs.cornell.edu/~zkwen/"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -40,6 +40,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Members
-# - Students
+# - Alumni
 # - Team Members
 ---

@@ -20,6 +20,5 @@ advanced:
   css_style: "height:70%"
   css_class: "custom"
 ---
-
-# ImmersiveVis
-### Experience Data Visualizations in Augmented Reality
+# HKUST VisLab
+### Bring Augmented Reality and Virtual Reality to Real Life

@@ -13,7 +13,7 @@ cascade:
 superuser: false
 
 # Role/position
-role: Ph.D. (UCSD Postdoc)
+role: Ph.D. (Harvard Postdoc)
 
 # Organizations/Affiliations
 organizations:

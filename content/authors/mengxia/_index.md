@@ -13,7 +13,7 @@ cascade:
 superuser: false
 
 # Role/position
-role: Ph.D. (KAIST Postdoc)
+role: Ph.D. (CMU Postdoc)
 
 # Organizations/Affiliations
 organizations:

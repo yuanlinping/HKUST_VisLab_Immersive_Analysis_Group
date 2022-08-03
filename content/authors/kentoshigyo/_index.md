@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wai Tong
+title: Kento Shigyo
 
 _build:
   render: never
@@ -28,7 +28,7 @@ interests:
 social:
 - icon: home
   icon_pack: fas
-  link: "https://wtong2017.github.io/"
+  link: "https://csdatastudy.site/"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

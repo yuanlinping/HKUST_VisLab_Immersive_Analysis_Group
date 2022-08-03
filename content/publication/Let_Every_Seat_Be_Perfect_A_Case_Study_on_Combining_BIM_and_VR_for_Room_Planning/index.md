@@ -7,7 +7,7 @@ authors:
   - liwenhanxie
   - yannalin
   - huaminqu
-date: "2022"
+date: "2022-01-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
